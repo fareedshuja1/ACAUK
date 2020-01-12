@@ -1,0 +1,170 @@
+#content-top {
+		height:0;
+		margin-top:20px;
+	}
+	#content-bottom {
+		height:0;
+		margin-bottom:20px;
+	}
+	#content .container {
+		background:none !important;
+	}
+	#logo {
+		float:left;
+	}
+	.menusearch {
+		float:right;
+		margin-top:35px;
+	}
+	/*------------------------------ MENU ------------------------------*/
+	#secondarymenu-container {
+		padding-top:9px;
+		height:133px;
+		position:relative;
+		z-index:11;
+	}
+	#secondarymenu {
+		float:right;
+		clear:right;
+		margin-top:0px;
+	}
+	#secondarymenu li {
+		
+	}
+	#secondarymenu a {
+		text-decoration:none;
+		padding:7px 10px;
+		display:block;
+		color:#fff;
+		font-family:'Oswald';
+		font-size:13px;
+	}
+	#secondarymenu a:hover{
+		color:#ffb900;
+		background:#273f55;
+	}
+	#mainmenu-container {
+		height:67px;
+		z-index: 999;
+	}
+	#mainmenu li a {
+		text-align:center;
+		color:#fff;
+		display:block;
+		text-decoration:none;
+		font-family:'Oswald';
+		padding:20px;
+		font-size:15px;
+		text-transform: uppercase;
+	}
+	#mainmenu li {
+		padding-left:7px;
+		position:relative;
+	}
+	#mainmenu li a:hover{
+		color:#ffb900;
+		background:url(../images/menu-li-a.png) left top repeat;
+		border-bottom:2px solid #ffb900;
+	}
+	#header li ul {
+		top:34px;
+	}
+	#header #mainmenu li ul {
+		top:67px;	
+	}
+
+	
+	
+	#header li ul .inner {
+		background:#273f55;
+		padding:0;
+	}
+	#header ul.children li, #header .sub-menu li {
+		padding:0 !important;
+		margin:0 !important;
+		height:25px;
+		line-height:25px;
+	}
+	#header ul.children li a, .sub-menu li a {
+		color:#729fc1 !important;
+		padding:0 !important;
+		background:none;
+		height:25px;
+		line-height:25px;
+	}
+	#header ul.children li a:hover, .sub-menu li a:hover {
+		color:#fff !important;
+	}
+	#header #mainmenu li ul .inner {
+		background:url(../images/submenu.jpg) left top repeat;
+		padding:0;
+	}
+	#header #mainmenu ul.children li, #header .sub-menu li {
+		padding:0 !important;
+		margin:0 !important;
+		height:25px;
+		line-height:25px;
+	}
+	#header #mainmenu ul.children li a, #header .sub-menu li a {
+		color:#858585 !important;
+		padding:0 !important;
+		background:none;
+		height:25px;
+		line-height:25px;
+	}
+	#header #mainmenu ul.children li a:hover, #header .sub-menu li a:hover {
+		color:#fff !important;
+	}
+	#header .sub-menu .sub-menu {
+		top:0 !important;
+	}
+	
+	
+	/*------------------------------ SLIDER ------------------------------*/
+	.slider-container {
+		margin:20px 0;
+	}
+	.fp-next, .fp-prev {
+		width:88px;
+		height:407px;
+	}
+	.slider {
+		position:relative;
+		background:#fff;
+		padding:10px;
+		border:1px solid #d1c7a2;
+	}
+	.fp-prev-next-wrap {
+		margin:0;
+	}
+	.fp-prev,.fp-next {
+		margin-top:-204px;
+	}
+	.slider-nothumb .fp-slides, .slider-nothumb .fp-thumbnail, .slider-nothumb .fp-slides-items {
+		height:188px;
+	}
+	.fp-slides,.fp-thumbnail,.fp-slides-items  {
+		height:320px;
+		width:978px;
+	}
+	.fp-content-fon {
+		border-bottom:none;
+		border-left:none;
+		border-right:none;
+	}
+	.fp-content-fon, .fp-content {	
+		left:0;
+		right:0;
+		bottom:0;
+	}
+	.slider-nothumb .fp-content-fon {
+		background:#fff;
+	}
+	.slider-nothumb .fp-content a,.slider-nothumb .fp-content p{
+		color:#000;
+	}
+	.fp-nav {
+		left:auto;
+		right:30px;
+		bottom:20px;
+	}

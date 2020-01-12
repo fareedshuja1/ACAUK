@@ -1,0 +1,216 @@
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-categoryPath a, 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-categoryPath a:active, 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-categoryPath a:visited,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-subcategories-categoryName,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-results-topPanel div.ecwid-results-topPanel-viewAsPanel-link,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-details-GalleryPanel-linkContainer div,
+html#ecwid_html body#ecwid_body #main_content .ecwid a, 
+html#ecwid_html body#ecwid_body #main_content .ecwid a:active, 
+html#ecwid_html body#ecwid_body #main_content .ecwid a:visited,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-results-topPanel div.ecwid-results-topPanel-viewAsPanel-link,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-productNameLink a, 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-productNameLink a:visited,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart div.ecwid-productBrowser-productNameLink a, 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart div.ecwid-productBrowser-productNameLink a:active, 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart div.ecwid-productBrowser-productNameLink a:visited {
+	color:#fff;
+	text-decoration:underline;
+}
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-head,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Checkout-blockTitle, 
+html#ecwid_html body#ecwid_body #main_content table.ecwid-Checkout-blockTitle div.gwt-Label, 
+html#ecwid_html body#ecwid_body #main_content table.ecwid-Checkout-blockTitle div.gwt-HTML,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-head-share-purchase,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Invoice-blockTitle { 
+	color:#0c2b46;
+} 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-backgroundedPanel,
+html#ecwid_html body#ecwid_body #main_content .ecwid .ecwid-productBrowser-ask-advice-panel,
+html#ecwid_html body#ecwid_body #main_content .ecwid .ecwid-ProductDetails-gray-panel-bottom,
+html#ecwid_html body#ecwid_body #main_content .ecwid-productBrowser-details-rightPanel div.ecwid-productBrowser-sharePanel-header,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-EnterCouponBox,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-backgroundedPanel,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-form,
+html#ecwid_html body#ecwid_body #main_content .ecwid-productBrowser-details-rightPanel .ecwid-productBrowser-sharePanel-buttonsContainer{
+	background:#229dd8;
+	border:none;
+} 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-categoryPath,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-results-topPanel div,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-results-topPanel div.ecwid-results-topPanel-itemsCountLabel,
+html#ecwid_html body#ecwid_body #main_content .ecwid,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-details-qtyLabel,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-details-inTheBag div,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Invoice-cell-title,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart div.ecwid-productBrowser-sku,
+html#ecwid_html body#ecwid_body #main_content span.ecwid-productBrowser-cart-weight,
+html#ecwid_html body#ecwid_body #main_content td.ecwid-PseudoButton-center, 
+html#ecwid_html body#ecwid_body #main_content td.ecwid-PseudoButton-center div, 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-PseudoButton,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-optionsList,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-qtyTextField-multiplication,
+html#ecwid_html body#ecwid_body #main_content td.ecwid-productBrowser-cart-itemsTable-headerCell,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-subtotalLabel, 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-shippingLabel, 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-taxLabel,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-totalLabel,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-estimationNote,
+html#ecwid_html body#ecwid_body #main_content label.ecwid-fieldLabel,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-details-inStockLabel,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-note,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Invoice-block,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Invoice-productDescr,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Invoice-Summary-label,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-productsList-descr,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-sku,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-details-inStockLabel,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-productsList-details div.ecwid-productBrowser-sku{
+	color:#0a375d;
+}
+html#ecwid_html body#ecwid_body #main_content table.ecwid-productBrowser-productsTable-table { 
+	width:100%; 
+}
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Checkout-BreadCrumbs-link{
+	color:#0a375d;
+}
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Checkout-BreadCrumbs-link-visited,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Checkout-BreadCrumbs-link-current{
+	color:#fff;
+	border-color:#fff;
+}
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Checkout-BreadCrumbs-link-current {
+	text-decoration:underline;
+}
+html#ecwid_html body#ecwid_body div.ecwid-productBrowser-detailsContainer div.ecwid-productBrowser-details-thumbnail { 
+	background:#fff ; 
+}
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-price,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-subtotalAmount, 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-subtotalAmountMinus, 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-shippingAmount, 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-taxAmount,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-totalAmount,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart div.ecwid-productBrowser-price,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Invoice-Summary-label, 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Invoice-Summary-value, 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Invoice-Summary-value,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Invoice-Summary-value-price,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Invoice-productPrice{
+	color:#0a375d;
+}
+html#ecwid_html body#ecwid_body #main_content button.gwt-Button { 
+	background:url(../images/back-readmore.png) repeat-x;
+	color: #b6b6b6;
+	font-size: 12px;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	box-shadow:0 0 4px #1a5d85;
+	border:none;
+}
+html#ecwid_html body#ecwid_body #main_content button.gwt-Button:hover { 
+	text-decoration:underline;
+}
+html#ecwid_html body#ecwid_body #main_content div.ecwid-pager .gwt-InlineLabel { display:none; }
+html#ecwid_html body#ecwid_body #main_content div.ecwid-pager { padding-top:30px; }
+html#ecwid_html body#ecwid_body #main_content div.ecwid-pager span.ecwid-pager-link-enabled span { 
+	text-decoration:none;	
+}
+html#ecwid_html body#ecwid_body #main_content div.ecwid-pager span.ecwid-pager-link-enabled {	
+	color:#5e5e5e;
+	box-shadow:0 0 3px #196091;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	background: rgb(254,254,254); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(254,254,254,1) 0%, rgba(232,232,232,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(254,254,254,1)), color-stop(100%,rgba(232,232,232,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(254,254,254,1) 0%,rgba(232,232,232,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(254,254,254,1) 0%,rgba(232,232,232,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(254,254,254,1) 0%,rgba(232,232,232,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(254,254,254,1) 0%,rgba(232,232,232,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefefe', endColorstr='#e8e8e8',GradientType=0 ); /* IE6-9 */
+	padding:5px 10px;
+	margin-right:5px;
+}
+html#ecwid_html body#ecwid_body #main_content div.ecwid-pager span.ecwid-pager-link-enabled:hover, 
+html#ecwid_html body#ecwid_body #main_content div.ecwid-pager span.ecwid-pager-link-disabled {
+	color:#fff;
+	box-shadow:0 0 3px #2382c4;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	background: rgb(82,82,82); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(82,82,82,1) 0%, rgba(2,2,2,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(82,82,82,1)), color-stop(100%,rgba(2,2,2,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(82,82,82,1) 0%,rgba(2,2,2,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(82,82,82,1) 0%,rgba(2,2,2,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(82,82,82,1) 0%,rgba(2,2,2,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(82,82,82,1) 0%,rgba(2,2,2,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#525252', endColorstr='#020202',GradientType=0 ); /* IE6-9 */
+	padding:5px 10px;
+	margin-right:5px;
+}
+html#ecwid_html body#ecwid_body .sidebar span.ecwid-categories-category { 
+	font-size:13px;
+	color:#fff;
+}
+html#ecwid_html body#ecwid_body .sidebar td.ecwid-categories-vertical-table-cell-selected span.ecwid-categories-category {
+	color:#fff;
+}
+html#ecwid_html body#ecwid_body button.ecwid-SearchPanel-button {
+	background:#262626;
+	padding:2px 6px;
+	color:#fff;
+	border:none;
+	cursor:pointer;
+}
+html#ecwid_html body#ecwid_body input.ecwid-SearchPanel-field { 
+	text-transform:lowercase;
+    color: #232323;
+	box-shadow:0 -1px 0 #868686;
+	border-bottom:none;
+	background:#fff;
+	border:1px solid #d7d7d7;
+}
+
+html#ecwid_html body#ecwid_body #main_content table.ecwid-productBrowser-productsTable-table div.ecwid-productBrowser-productNameLink a,
+html#ecwid_html body#ecwid_body #main_content table.ecwid-productBrowser-productsTable-table div.ecwid-productBrowser-productsTable-addToBagLink { 
+	text-decoration:underline;
+	color:#0a375d;
+}
+html#ecwid_html body#ecwid_body #main_content table.ecwid-productBrowser-productsTable-table div.ecwid-productBrowser-price { 
+	color:#0a375d;
+}
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-productsTable div.ecwid-productBrowser-sku {
+	color:#0a375d;
+}
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-hint,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-asterisk,
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-estimationNote span {
+	color:#222;
+	font-style:italic;
+}
+html#ecwid_html body#ecwid_body #main_content tr.ecwid-productBrowser-cart-itemsTable-row-selected,
+html#ecwid_html body#ecwid_body #main_content tr.ecwid-productBrowser-cart-itemsTable-row-selected > td {
+	background:#36bdf4;
+}
+html#ecwid_html body#ecwid_body #main_content div.ecwid-productBrowser-cart-termsCheckbox-rollover { 
+	background:#36bdf4;
+}
+html#ecwid_html body#ecwid_body #main_content div.ecwid-ProductBrowser-auth-anonim { 
+	margin-right:0;
+}
+html#ecwid_html body#ecwid_body #main_content td.ecwid-Invoice-edgeCell,
+html#ecwid_html body#ecwid_body #main_content td.ecwid-Invoice-cell, 
+html#ecwid_html body#ecwid_body #main_content .ecwid-responsive div.ecwid-PseudoButton {
+	background:#36bdf4;
+}
+html#ecwid_html body#ecwid_body #main_content div.ecwid-Invoice-cell-title{
+	background:#229dd8;
+}
+html#ecwid_html body#ecwid_body #main_content td.ecwid-Invoice-Header-OrderId span, 
+html#ecwid_html body#ecwid_body #main_content td.ecwid-Invoice-Header-OrderId-long span, 
+html#ecwid_html body#ecwid_body #main_content td.ecwid-Invoice-Header-OrderId-very-long span {
+	color:#0a375d;
+}

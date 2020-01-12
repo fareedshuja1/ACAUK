@@ -1,0 +1,4 @@
+/*
+ * This file is part of Easy Photo Album plugin for WordPress.
+ */
+(function(){tinymce.PluginManager.requireLangPack("EasyPhotoAlbum");tinymce.create("tinymce.plugins.EasyPhotoAlbum",{init:function(A,B){var C={};if(epaInsertL10n.wp3_8){C={title:A.getLang("epa.dlg_title"),cmd:"epa_insert_album",icon:"epa-dashicons-insert-album"}}else{C={title:A.getLang("epa.dlg_title"),cmd:"epa_insert_album",image:B+"/insert.png"}}A.addButton("epa_insert",C);A.addCommand("epa_insert_album",function(){A.windowManager.open({width:480,height:"auto",wpDialog:true,id:"epa-insert",title:A.getLang("epa.dlg_title")},{plugin_url:B,})})},createControl:function(B,A){return null},getInfo:function(){return{longname:"Easy Photo Album Plugin",author:"TV productions",authorurl:"http://tv-productions.org",version:"0.1"}}});tinymce.PluginManager.add("EasyPhotoAlbum",tinymce.plugins.EasyPhotoAlbum)})();

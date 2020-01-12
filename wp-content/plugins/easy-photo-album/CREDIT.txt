@@ -1,0 +1,5 @@
+This plugin was originally developed by "TV productions,"
+https://profiles.wordpress.org/tv-productions/ | http://tv-productions.org/
+
+Since May 23rd 2016 I, Aubrey Portwood, have been contributing to the plugin
+as a secondary developer in order to maintain the plugin.
